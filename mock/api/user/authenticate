@@ -1,0 +1,9 @@
+{
+  "authenticated":true,
+  "token":"1111-1111-1111-1111",
+  "user":{
+     "name":"Guest",
+     "location":"630#666",
+     "email":"guest@seadun.com"
+  }
+}

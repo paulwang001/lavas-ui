@@ -1,0 +1,34 @@
+{
+    "applications":[
+        {
+            "name":"home",
+            "title":"主机安全",
+            "home":"/home",
+            "svg":"cup"
+        },
+        {
+            "name":"person",
+            "title":"行为安全",
+            "home":"/person",
+            "svg":"pie"
+        },
+        {
+            "name":"event",
+            "title":"安全事件",
+            "home":"/event",
+            "svg":"settings"
+        },
+        {
+            "name":"bpmn",
+            "title":"流程中心",
+            "home":"/bpmn",
+            "svg":"settings"
+        },
+        {
+            "name":"system",
+            "title":"系统管理",
+            "home":"/system",
+            "svg":"chameleon"
+        }
+    ]
+}
